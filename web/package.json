@@ -1,5 +1,5 @@
 {
-  "name": "@APPNAME/web",
+  "name": "@apple-picking/web",
   "private": true,
   "type": "module",
   "scripts": {

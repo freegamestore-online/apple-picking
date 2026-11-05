@@ -651,7 +651,7 @@ export default function App() {
         <GameTopbar
           title="Apple Picking"
           score={score}
-          highScore={highScore}
+          stats={[{ label: "Best", value: highScore }]}
         />
       }
     >
